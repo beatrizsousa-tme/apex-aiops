@@ -11,13 +11,13 @@ Incident Managmement integrations allows customers to interface with other tools
 
 If you want to learn more about Incident Management, see:
 
-www.dell.com/apex-aiops
+https://www.dell.com/en-us/shop/dell-aiops/sl/aiops?msockid=00c97ef8459661a80604682144b360a4
 
 ## Support
 
 The examples in this repository are provided as is with no warranties. Enter an issue if you would like to report a defect.
 
-Please contact you Dell APEX AIOps Incident Management technical contact if you have any questions.
+Please contact you Dell AIOps Incident Management technical contact if you have any questions.
 
 ## License
 
