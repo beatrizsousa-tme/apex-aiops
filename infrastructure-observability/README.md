@@ -1,6 +1,6 @@
 # Infrastructure Observability
 
-APEX AIOps Infrastructure Observability (previously called CloudIQ) is the AIOps application that provides proactive health monitoring, recommendations, and predictive analytics for Dell infrastructure systems.
+AIOps Infrastructure Observability (previously called CloudIQ) is the AIOps application that provides proactive health monitoring, recommendations, and predictive analytics for Dell infrastructure systems.
 
 This folder contains a set of artifacts (scripts, code samples, configuration files, etc.) that are related to Infrastructure Observability, and, more specifically, to Infrastructure Observability integration (REST API and Webhook). The content of this repository is targeted to DevOps and SRE teams.
 
@@ -11,11 +11,11 @@ Infrastructure Observability integration allows customers to interface Infrastru
 
 If you want to learn more about Infrastructure Observability, see:
 
-www.dell.com/apex-aiops
+https://www.dell.com/en-us/shop/dell-aiops/sl/aiops?msockid=00c97ef8459661a80604682144b360a4
 
 You can also access Infrastructure Observability or the Infrastructure Observability simulator by using your Dell support credentials:
 
-https://aiops.apex.dell.com/observability/simulator
+https://aiops.dell.com/simulator/index.html#/overview
 
 
 ## Learning more about Infrastructure Observability integration
